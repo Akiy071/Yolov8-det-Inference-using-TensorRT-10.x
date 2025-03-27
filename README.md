@@ -14,4 +14,4 @@ The original code was created by [tripleMu](https://github.com/triple-Mu/YOLOv8-
 ·操作系统：Windows 11
 
 ## 使用方法
-运行main.cpp即可！## 前处理以及后处理方法需要自己实现！ ##
+运行main.cpp即可！**前处理以及后处理方法需要自己实现！**
