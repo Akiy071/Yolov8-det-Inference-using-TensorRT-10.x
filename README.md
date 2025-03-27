@@ -10,7 +10,7 @@ The original code was created by [tripleMu](https://github.com/triple-Mu/YOLOv8-
 
 ## 测试环境
 - `TensorRT Version:` 10.6-10.9
-- `GPU:` RTX 3090 24G/
+- `GPU:` NVIDIA GeForce RTX 3090 24G/
 - `操作系统：` Windows 11/
 
 ## 使用方法
